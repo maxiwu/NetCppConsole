@@ -7,5 +7,6 @@ ref class Square :
 public:
     int GetArea(int x) override;
     int GetTotalSide(int x) override;
+
 };
 
